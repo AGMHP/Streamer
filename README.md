@@ -8,6 +8,8 @@ Hooks,
 Google Auth 2.0,
 JSON Server As an API.
 
+Demo App @ https://livestreamer.herokuapp.com/
+
 Use:
 Provide users platform to share their innovative skills or online games from thier screen remotely, A live screensharing app that help other users to watch and comment on
 thier prefered content.
