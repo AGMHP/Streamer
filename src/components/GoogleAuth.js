@@ -1,11 +1,15 @@
 import React from 'react';
 import { connect } from 'react-redux';
+import Popup from 'reactjs-popup';
 import { signIn, signOut } from '../actions';
 
 class GoogleAuth extends React.Component{
     
     state = {
-        isSignedIn: null
+        isSignedIn: null,
+        auth:{
+            signIn: undefined
+        }
     }
 
     componentDidMount(){
@@ -21,8 +25,15 @@ class GoogleAuth extends React.Component{
         });
     }
 
+    Popup = () =>(
+        <Popup trigger={<button> Trigger</button>} position="right center">
+          <div>Popup content here !!</div>
+        </Popup>
+      );
+
     onSignInClick = () =>{
-        this.auth.signIn();
+            this.auth.signIn();
+    
     };
 
     onSignOutClick = () =>{
