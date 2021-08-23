@@ -14,7 +14,7 @@ Use:
 Provide users platform to share their innovative skills or online games from thier screen remotely, A live screensharing app that help other users to watch and comment on
 thier prefered content.
 
-author || creator : Maulik Patel. Contact me(maulikpatel1@gmail.com)
+author || creator : Maulik Patel. Contact me(maulikhpatel1@gmail.com)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
