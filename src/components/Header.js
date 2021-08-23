@@ -8,7 +8,7 @@ const App = () =>{
             <Link to="/" className="item">
                 Streamer
             </Link>
-            <h1>Hi, Maulik. Remember changing Google auth 2.0 before 12 Aug 2021.</h1>
+            <h1>Hi, user. Google auth 2.0 is not available. Please try again.</h1>
             <div className ="right menu">
                 <Link to="/" className="item">
                     Log IN
