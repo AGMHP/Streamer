@@ -6,7 +6,7 @@ React(ES6 Syntax),
 Redux,
 Hooks,
 Google Auth 2.0,
-JSON server As an API.
+JSON Server As an API.
 
 Use:
 Provide users platform to share their innovative skills or online games from thier screen remotely, A live screensharing app that help other users to watch and comment on
