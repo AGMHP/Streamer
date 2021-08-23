@@ -1,0 +1,47 @@
+[33mcommit e9a5c8ca741d845797400eb87353ea5a039b0ec1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Maulik Patel <pmaulik60@Gmail.com>
+Date:   Mon Aug 23 05:54:34 2021 -0400
+
+    Configuration to deploy to heroku
+
+[33mcommit 26856725ed56b6a98c0695269070f9796240618e[m
+Author: Maulik Patel <pmaulik60@Gmail.com>
+Date:   Mon Aug 23 05:53:06 2021 -0400
+
+    green
+
+[33mcommit 2263b9ef92aa5df3ce3e261222cad30a50b4e5e2[m
+Author: Maulik Patel <pmaulik60@Gmail.com>
+Date:   Sun Aug 22 22:13:55 2021 -0400
+
+    security update
+
+[33mcommit 6e65a6977037052f4da04ae967bf6a04423b81d0[m
+Author: Maulik Patel <pmaulik60@Gmail.com>
+Date:   Sun Aug 22 22:12:36 2021 -0400
+
+    security update
+
+[33mcommit 0a6659826dcc65b044e1ea70bbddff60aa180d72[m
+Author: Maulik Patel <41271052+MHPateldev@users.noreply.github.com>
+Date:   Sun Aug 22 22:03:31 2021 -0400
+
+    Update README.md
+
+[33mcommit d457536eff5db960e4288d6f25bbf0bfbe4aa85e[m
+Author: Maulik Patel <41271052+MHPateldev@users.noreply.github.com>
+Date:   Sun Aug 22 22:02:28 2021 -0400
+
+    Create README.md
+
+[33mcommit f468bab5dc902fa971e00c41dd364316fbe54b56[m
+Author: Maulik Patel <pmaulik60@gmail.com>
+Date:   Thu Mar 5 20:45:45 2020 -0500
+
+    CRUD Basic INTT backup
+
+[33mcommit fc784f8389944ed7a65f066e44240cdc5209c350[m
+Author: Maulik Patel <pmaulik60@gmail.com>
+Date:   Wed Mar 4 12:53:32 2020 -0500
+
+    Forms created seventh commit
